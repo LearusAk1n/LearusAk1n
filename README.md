@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy José Paredes</a> 👋</h1>
+</div>
+<img src="https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion.jpeg">
 
-<!--
-**LearusAk1n/LearusAk1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Github Star ⭐ 
+- 📲 fullstack developer
+- 🧑‍💻 website and apps developer
+- {} C#,C++,python,java,SQL server,MySQL
+<br>
